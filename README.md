@@ -2,7 +2,7 @@
 
 CodePath WEB103 Final Project
 
-Designed and developed by: Zamijah Shakeur-Tompkins, [Teammate 1], [Teammate 2], [Teammate 3]
+Designed and developed by: Zamijah Shakeur-Tompkins, Mihir Patel, McKenna Parker, David Lema
 
 🔗 Link to deployed app: _Coming soon (will be deployed on Render)_
 
